@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
     Sitemap({
-      hostname: "https://tsbbazar.com/",
+      hostname: "https://tenumart.com/",
       dynamicRoutes: ["/", "/products", "/categories"],
       priority: 1,
     }),
